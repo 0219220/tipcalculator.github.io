@@ -1,0 +1,138 @@
+@font-face {
+    font-family: Space-Mono ;
+    src: url(https://fonts.google.com/specimen/Space+Mono);
+}
+
+
+
+
+
+
+.title{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 700;
+    
+    color: hsl(184, 14%, 43%);
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+.btitle{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 400;
+    
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+.subtitle{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 700;
+    font-size: 11px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: hsl(184, 14%, 56%);
+}
+
+.amount{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 700 ;
+    font-size: 20px;
+    background-color: hsl(185, 41%, 86%);
+    border: none;
+    border-radius: 3px;
+    width: 290px;
+    color:hsl(183, 100%, 15%);
+    text-align: right;
+
+    background-image: url("images/icon-dollar.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+} 
+
+
+.amount2{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 700 ;
+    font-size: 20px;
+    background-color: hsl(185, 41%, 86%);
+    border: none;
+    border-radius: 3px;
+    width: 290px;
+    color:hsl(183, 100%, 15%);
+    text-align: right;
+
+    background-image: url("images/icon-person.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+} 
+
+.subtitle2{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 400;
+    padding-left: 5px;
+    font-size: 13px;
+    color: hsl(0, 0%, 100%);
+}
+
+.subtitle2a{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 700;
+    padding-left: 5px;
+    font-size: 12px;
+    color: hsl(184, 14%, 56%);
+}
+
+.subtitle2r{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 400;
+   font-size: 40px;
+    color: hsl(172, 67%, 45%);
+}
+
+.buttonr{
+    font-family: 'Space-Mono', monospace;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.buttonl{
+    font-family: 'Space-Mono', monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+    height: 35px;
+    width: 80px;
+    margin-left: 10px;
+    display: inline-block;
+ 
+}
+
+
+.borderr{
+    border: none;
+    border-radius: 15px;
+   background-color: hsl(183, 100%, 15%);
+   padding-bottom: 5px;
+}
+
+.borderg{
+    border: none;
+    border-radius: 15px;
+    background-color: white;
+    padding: 20px;
+}
+
+
+.inputc{
+    height: 30px;
+    width: 120px;
+}
